@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff2b2b</color>
+    <color name="colorPrimaryDark">#f51919</color>
+    <color name="colorAccent">#f51919</color>
+
+    <color name="text_color">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="nav_item_state_list">#ffffff</color>
+
+
+    <color name="bottom_nav_background">#f51919</color>
+    <color name="bottom_nav_text">#ffffff</color>
+</resources>
